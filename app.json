@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Music Timeline Scanner",
+    "slug": "music-timeline-scanner",
+    "version": "1.0.0",
+    "scheme": "music-timeline-scanner",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    }
+  }
+}
